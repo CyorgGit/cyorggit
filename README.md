@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello, apparently i found a secret on github, so i guess i got da cool readme.md on my profile
 
 <!--
 **CyorgGit/cyorggit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
